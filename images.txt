@@ -1,1 +1,1 @@
-linode/lamp:latest
+linode/lamp
